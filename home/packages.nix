@@ -9,5 +9,8 @@
     ripgrep
     helix
     gh
+    dotnet-sdk_8
+    fsautocomplete
+    gcc
   ];
 }
